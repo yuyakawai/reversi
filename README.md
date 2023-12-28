@@ -1,2 +1,11 @@
-# reversi
-Created with CodeSandbox
+# プロジェクト名
+
+reversi
+
+## 概要
+
+自作のリバーシゲームです。
+
+## ライセンス
+
+このプロジェクトは MIT ライセンスの下で公開されています。
