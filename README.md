@@ -1,6 +1,4 @@
-# プロジェクト名
-
-reversi
+# reversi
 
 ## 概要
 
